@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>figuras_gui</label>
+	</settings>
+	<users>
+		<user>
+			<path>figuras_gui.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>figuras_gui.jcp</path>
+		</project>
+	</projects>
+</workspace>

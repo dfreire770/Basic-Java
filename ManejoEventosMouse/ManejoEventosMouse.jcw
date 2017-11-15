@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ManejoEventosMouse</label>
+	</settings>
+	<users>
+		<user>
+			<path>ManejoEventosMouse.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ManejoEventosMouse.jcp</path>
+		</project>
+	</projects>
+</workspace>

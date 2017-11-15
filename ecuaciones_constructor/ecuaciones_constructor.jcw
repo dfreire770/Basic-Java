@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ecuaciones_constructor</label>
+	</settings>
+	<users>
+		<user>
+			<path>ecuaciones_constructor.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ecuaciones_constructor.jcp</path>
+		</project>
+	</projects>
+</workspace>

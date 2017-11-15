@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>figuras_gui</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>figuras_gui</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>figuras_gui\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>figuras_gui\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\gui.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>figuras_gui\src\figuras_gui.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

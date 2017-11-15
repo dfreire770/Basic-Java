@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>computadoras</label>
+	</settings>
+	<users>
+		<user>
+			<path>computadoras.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>computadoras.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>mi_reloj</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>mi_reloj</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\mi_reloj.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>classes\mi_reloj.htm</path>
+			<source>false</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>classes\mi_reloj.htm</path>
+			<source>true</source>
+			<index>2</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

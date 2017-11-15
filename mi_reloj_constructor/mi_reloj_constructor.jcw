@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>mi_reloj_constructor</label>
+	</settings>
+	<users>
+		<user>
+			<path>mi_reloj_constructor.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>mi_reloj_constructor.jcp</path>
+		</project>
+	</projects>
+</workspace>

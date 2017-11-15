@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>reloj</label>
+	</settings>
+	<users>
+		<user>
+			<path>reloj.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>reloj.jcp</path>
+		</project>
+	</projects>
+</workspace>
